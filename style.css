@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'Lucida Sans';
+    background-color: #FAEBDD;
+}
+
+header {
+    background-color: #f7f7f7;
+    outline: solid 1px gray;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+#wrapper {
+    outline: solid 1px gray;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2, h3, p {
+    padding: 5px;
+}

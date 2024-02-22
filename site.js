@@ -26,7 +26,8 @@ else if ( hours >= 12 && hours < 17) { //is it afternoon?
 else if (hours >= 17 || hours < 4) { //is it evening?
     const h2 = document.querySelector('h2')
     h2.textContent = greeting3.text
-
-
 }
 
+
+
+localStorage.setItem("It's a secret to everybody.", 'Programming is hard!' );
